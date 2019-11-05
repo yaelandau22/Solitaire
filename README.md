@@ -3,6 +3,8 @@
 
 Solitaire game, written in Java.
 
+[Click here to dowload and play](http://yaellandau.com/portfolio//Solitaire.jar)
+
 ![alt text](http://yaellandau.com/wp-content/uploads/2014/03/soliterIMG.png)
 
 *NOTE:
